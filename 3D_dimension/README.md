@@ -1,1 +1,1 @@
-
+3D design for cover of my physical prototype! I printed it our and failed several time. After printed out the perfect one, I realized that my measurement was wrong, so I had to grind the surface with the sandpaper, and also make a hole with electric power drill to fit everything well. 
