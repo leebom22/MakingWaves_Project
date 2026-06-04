@@ -1,1 +1,1 @@
-
+I used AI for the coding, because I never learned the program language to implement in the Arduino. AI followed my instructions to make base code, and I keep changed the code after understand the structure. 
