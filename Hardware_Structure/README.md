@@ -1,1 +1,1 @@
-
+I used breadboard to make initial design and check how it works. After that, I drew circuit diagram to make actual PCB board, so I reduce the percentage of failure. Based on the diagram, I was able to build PCB board with soldering.
